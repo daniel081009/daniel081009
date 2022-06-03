@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&text=Dan&fontAlign=70&customColorList=0,5,2,5,40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dan&fontSize=70)
