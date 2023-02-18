@@ -9,6 +9,4 @@
 ![header](https://img.shields.io/badge/Go-000000?style=flat&logo=Go&logoColor=white) ![header](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white)
 ![header](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) ![header](https://img.shields.io/badge/C++-00599C?style=flat&logo=&logoColor=white) 
 
-## Github
-![Dan GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel081009&show_icons=true&theme=radica)
 
