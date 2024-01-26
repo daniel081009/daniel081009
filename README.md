@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dan&fontSize=70)
 
 ## Introduce
-**안녕하세요!** 열심히 공부중인 **16살** 오단휘입니다!
+**안녕하세요!** 열심히 공부중인 **17살** 오단휘입니다!
+
+요즘은 수학과 알고리즘을 공부중이에요!
 
 ## Skill
 ![header](https://img.shields.io/badge/Html-E34F26?style=flat&logo=Html5&logoColor=white) ![header](https://img.shields.io/badge/Css-1572B6?style=flat&logo=CSS3&logoColor=white)
